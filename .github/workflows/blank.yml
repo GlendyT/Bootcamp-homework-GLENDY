@@ -12,16 +12,15 @@ jobs:
   build:
     env:
       privateenvarioment: ${{secrets.BOOTCAMP_TYPESCRIPT}}
-      publicenvarioment: ${{secrets.GITHUB_TOKEN}}
 
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: "Mostrar mensaje"
-        run: echo "Hola, mundo!"
+      - name: "Display envarioment varialbe "
+        run: echo "Envarioment variable ${{vars.BOOTCAMP_TYPESCRIPT_VARIABLE}}"
 
-      - name: "Mostrando variables de entorno"
+      - name: "Display envarioment Secret"
         run: |
-          echo "Esto es el valor de plataform: ${{ env.privateenvarioment }}"
-          echo "Esto es el valor de plataform: ${{ env.publicenvarioment }}"
+          echo "Envarioment Secret: ${{ env.privateenvarioment }}"
+          
