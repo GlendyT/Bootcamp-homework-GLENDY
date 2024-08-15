@@ -3,7 +3,7 @@ Bootcamp-homework-GLENDY
 
 
 **BOOTCAMP FIRST HOMEWORK**
-*Instructions
+Instructions
 1. Create a public repository with a readme file in Markdown.
 2. Connect to GitHub using SSH
 3. Upload local changes to the repository
