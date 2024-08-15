@@ -28,6 +28,8 @@ Instructions
 
 > [!IMPORTANT]
 >5. **GITHUB ACTIONS**
+![Captura de pantalla 2024-08-15 154023](https://github.com/user-attachments/assets/92cb5708-e217-42e4-a925-d0146df00b14)
+
 
 
 
