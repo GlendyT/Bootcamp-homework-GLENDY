@@ -6,15 +6,14 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: ["main"]
   pull_request:
     branches: ["main"]
 jobs:
   build:
     env:
-      plataform: aws
-      region: us-east-1
-      account: 123456789
+      privateenvarioment: ${{secrets.BOOTCAMP_TYPESCRIPT}}
+      publicenvarioment: ${{secrets.GITHUB_TOKEN}}
+
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -24,6 +23,5 @@ jobs:
 
       - name: "Mostrando variables de entorno"
         run: |
-          echo "Esto es el valor de plataform: ${{ env.plataform}}"
-          echo "Esto es el valor de region: ${{ env.region}}"
-          echo "Esto es el valor de account: ${{ env.account}}"
+          echo "Esto es el valor de plataform: ${{ env.privateenvarioment }}"
+          echo "Esto es el valor de plataform: ${{ env.publicenvarioment }}"
