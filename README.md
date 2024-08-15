@@ -26,8 +26,6 @@ Instructions
 
 ![Captura de pantalla 2024-08-15 130851](https://github.com/user-attachments/assets/e2955cfd-d3c6-42b1-8cc2-42c5912b4323)
 
-![Captura de pantalla 2024-08-15 134333](https://github.com/user-attachments/assets/edca386a-a5a1-4591-a87f-efafd43a1a71)
-
 ![Captura de pantalla 2024-08-15 134508](https://github.com/user-attachments/assets/d70fc545-614f-46f7-b6c0-e2d2fb20c6d1) 
 
 
