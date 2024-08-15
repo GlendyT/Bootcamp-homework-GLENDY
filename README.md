@@ -22,11 +22,6 @@ Instructions
 
 
 4. **GITHUB ACTIONS**
-![Captura de pantalla 2024-08-15 130636](https://github.com/user-attachments/assets/9be790ae-8cd2-44cd-b9d7-3232233a5071)
-
-![Captura de pantalla 2024-08-15 130851](https://github.com/user-attachments/assets/e2955cfd-d3c6-42b1-8cc2-42c5912b4323)
-
-![Captura de pantalla 2024-08-15 134508](https://github.com/user-attachments/assets/d70fc545-614f-46f7-b6c0-e2d2fb20c6d1) 
 
 
 
