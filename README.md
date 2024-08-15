@@ -16,12 +16,18 @@ Instructions
 
 2. **CONNECT TO GITHUB USING SSH**
    ![Captura de pantalla 2024-08-15 151323](https://github.com/user-attachments/assets/864b0565-50f8-49b0-ac29-ac095ffde3aa)
+   /*
+![Captura de pantalla 2024-08-15 130636](https://github.com/user-attachments/assets/8c14165c-858b-49a4-b0cb-77baf384634f)
 
-3. **UPLOAD LOCAL CHANGES TO THE REPOSITORY**
+   */
+
+4. **UPLOAD LOCAL CHANGES TO THE REPOSITORY**
 ![Captura de pantalla 2024-08-15 155653](https://github.com/user-attachments/assets/829edcb8-392c-4427-90ff-593bbff151ee)
 
 
-4. **GITHUB ACTIONS**
+5. **GITHUB ACTIONS**
+
+
 
 
 
