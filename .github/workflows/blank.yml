@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: ["main"]
 jobs:
-  build:
+  testbootcamp:
     env:
       privateenvarioment: ${{secrets.BOOTCAMP_TYPESCRIPT}}
 
